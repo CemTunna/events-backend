@@ -9,7 +9,11 @@ Icon
 .Spotlight-V100
 .Trashes
 ._*
-config
+
+
+.vscode
+yarn.lock
+package-lock.json
 
 ############################
 # Linux
@@ -30,8 +34,8 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
-yarn.lock
-package-lock.json
+
+
 ############################
 # Packages
 ############################
